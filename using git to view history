@@ -1,0 +1,5 @@
+GIT log will give you the timestamps and short notes on chnages to files 
+within a certain directory. this directory has to be made into a GIT directory
+using git init, which creates a .gitconfig file and .git folder. 
+git.diff will compare two files given their commit codes. when setting
+color in git.diff, remember it is written by americans, not canadians

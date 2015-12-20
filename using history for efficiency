@@ -1,0 +1,6 @@
+Helpful to track changes made by multiple users on a single file without 
+constant collaboration and fact checking between coworkers. Additionally, if
+changes need to be restored, its easy to do so, especially if newer versions
+of a file are not working when previous iterations were. you can experiment with
+significant changes to a program without worrying about losing or having to redo
+previous progress
