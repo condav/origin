@@ -1,0 +1,13 @@
+Why might you want to always pull changes manually rather than having 
+Git automatically stay up-to-date with your remote repository?
+
+if more than one person is working on different pieces of the same 
+proeject at once, all through the same remote repository, it wont be 
+helpful to have it all updated constantly. it would mess around with 
+people's changes, run into the same problems of forcing awkward mixes of 
+slightly different files that we talked about earlier when discussing 
+git's non-remote lack of automatic updating, and finally you might not 
+be finished with certain things, so any time based automatic updates 
+would result in messed up files for other people, in partial states of 
+completion. easier, cleaner to do it manually, with good inter-group 
+communication. 
