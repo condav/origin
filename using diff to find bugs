@@ -1,5 +1,0 @@
-being able to easily spot the difference between files from one change to 
-another can lead to simple fixes of silly errors. often, your familiarity 
-with your own code can lead to simple errors being overlooked because of what
-you THINK your code will do, rahter than what the program will interpret it as. 
-for simple, silly errors, diff makes it easy to spot the small differences. 
