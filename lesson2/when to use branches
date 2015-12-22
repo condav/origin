@@ -1,0 +1,21 @@
+What are some situations when branches would be 
+helpful in keeping your history organized? How 
+would branches help?
+
+branches allow you to make experimental changes 
+to an existing system without compromizing the 
+original system, and allowing you (or others) 
+to continue working on the original system 
+while the changes to the experimental version 
+are being worked out. these different branches 
+can be then merged later on using the git merge 
+function. 
+also helpful to switch when there is a change 
+of context of the work that is happening. main 
+feature being the main branch, with additional 
+changes and additions being different branches 
+coming off the main system. or to help 
+compartmentalize certain features, and allow 
+different people to be working together on the 
+same project, and basically have individual 
+workspaces linked to the same larger project

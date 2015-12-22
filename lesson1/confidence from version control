@@ -1,0 +1,6 @@
+Version control allws you to make changes to your code without worrying as much
+about creating new problems. if ever anything arises, so long as you limit
+your commits to small logical leaps, it allows you to easily restore previous 
+versions and pinpoint the changes that caused the problems. instead of just
+saving one final copy, you have every iteration of it along the way
+

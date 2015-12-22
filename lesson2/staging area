@@ -1,0 +1,9 @@
+the staginbg are in an interim zone that allows to to easily control 
+which files are commited in a single git commit. this allow you to group 
+your minor changes to more than one file under a similar logical 
+subsection, and makes it easy to double check which documents are being 
+commited together. also, easy for command line stuff because you can add 
+documents individually and then commit the group with a single command. 
+may be tedious for larger groups of files, but commits should be 
+logically small anyways, so it is inefficient to try and increase the 
+amount of files you can add easily together in one commit

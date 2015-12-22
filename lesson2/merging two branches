@@ -1,0 +1,26 @@
+What is the result of merging two branches together? Why do we represent 
+it in the diagram the way we do?
+
+merging twon branches add together their changes into one cohesive 
+branch, and is used in this case to add an addition to the game, as 
+coins you an run over for points, to the existing master branch of the 
+regular game. I encountered some difficulties in formatting between 
+versions, as i had accidentally deleted and slightly moved some of the 
+files in my current version, and git merge had some difficulties. i used 
+git checkout to go back to a previous version, copied the properly 
+formatted code, and pasted it into the regular main branch version i 
+had, recommiting it with the proper formatting. I had attempted earlier 
+to checkout at that functional version, while adding in the bullet delay 
+again, but couldnt figure out how to instate that version as the new 
+master branch instead of the existing one with the formatting problems. 
+but, it was easy enough to move things around and i made it work. 
+makignthe coins yellow was pretty easy, buit i needed to listen to the 
+fist 3 second of the video first. I had found the section of the 
+code that contained the infor about the coin sprite but was unsure 
+about the variables i needed to add. once i heard caroline mention the "add 
+color" change that had occured earlier, i went back to find the section 
+that had been changed and once again copied and pasted between git 
+versions. gotta love the clipboard. 
+
+diagrams are cool. easier to visualise than the terminal shiz and helps 
+to have a picture of what exactly you are doing while you do it. 

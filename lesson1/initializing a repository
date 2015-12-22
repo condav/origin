@@ -1,0 +1,5 @@
+initializing a repository with git (using, quite shockingly, the command 
+"git init" will place a .git directory in your new repository. this 
+makes git able to recognise and record changes to documents in this 
+directory, and will enable you to use that super fancy version control 
+stuff everyone's been talking about

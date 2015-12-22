@@ -1,0 +1,21 @@
+What are the pros and cons of Git’s automatic 
+merging vs. always doing merges manually?
+
+automatic merging, if it works, is way way way 
+way way way way faster than merging by hand. no 
+dickery with code, just short commands and 
+voila. however, git only does that if the 
+changes are not made to any similar sections of 
+code. git is also not smart enough to squish 
+things together that are similar so it just 
+tell you to figure it out. 
+
+doing merges manually ensures that everything 
+works properly (most of tyhe time) but is a lot 
+more effort on your part, with shifting and 
+editing and adding and removing manually. 
+easier to let git do it, but may occasionally 
+get you into trouble. this is why we have small 
+git commits, and check the differences between 
+the files before we merge them, right? 
+right....?

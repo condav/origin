@@ -1,0 +1,7 @@
+the staging area can be used as an intermediary between the workign 
+repository and the finished commit. using git diff and git diff --status 
+can compare between the working repository and the staging area, or 
+staging area and commit repository respectively. you can make sure your 
+changes are small and ensure you are making only the changes you say you 
+make in your commit messages. makes life easy to double check things 
+simply

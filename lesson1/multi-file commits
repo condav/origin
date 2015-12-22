@@ -1,0 +1,7 @@
+google docs generally uses rich text files or more complex graphical user 
+interface programs, which cannot be compared in terminal. you will never be
+ working on amalgam file types in this case. with GIT, working on smaller 
+interdependent files may be more common, and allowing users to save them
+in a batch makes life easier, and is more efficient
+
+

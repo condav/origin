@@ -1,0 +1,18 @@
+How do the diagrams help you visualize the 
+branch structure?
+
+git status and git log dont really have a very 
+pretty method of displaying changes in a 
+meaningful way. while you can make simple easy 
+changes in the therminal, and use colors to 
+view code changes between commits, git assumes 
+you have a general idea of how the system works 
+and doesnt need to remind you how it all fits 
+together every time you use it. plus, the 
+terminal is not really the place for GUI fun 
+times
+diagrams give you an idea of how every section 
+of branches and different commits link 
+together, and how to use the varied git 
+commands to jump between them conveniently, 
+without confsion and loss of work
